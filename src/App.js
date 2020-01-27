@@ -4,6 +4,7 @@ import FunctionalComponent from './components/FunctionalComponent';
 import ClassComponent from './components/ClassComponent';
 import StatefulComponent from './components/StatefulComponent';
 import CounterComponent from './components/CounterComponent';
+import ImgComponent from './components/ImgComponent';
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
         <FunctionalComponent />
         <ClassComponent />
         <StatefulComponent />
+        <ImgComponent />
       </div>
 
       <CounterComponent />
@@ -20,5 +22,7 @@ const App = () => {
     </div>
   );
 };
+
+
 
 export default App;
