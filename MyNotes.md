@@ -12,15 +12,14 @@
     - Link GIT to VS code va SSH (why SSH not HTTPS - find a good blog)
 - NPM & NodeJS
 
-## Steps 
-##
+## Steps ##
 - Make a local copy  / ideally branch of the code (latter better as you can see the changes made and reverse more easily amongst other things?... why GIT?)
 - See Presentation of and simple overview of React Components, with 3 problems and solutions.
 - Use [CreateReact App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)? - bloated (#number of packages downloaded) but easy and quick to develop a react app
 - NPM Install #to install the project.json dependencies
 - NPM Start #to run a webserver with real time updates on code changes
 
-## Q:##
+## Q: ##
 - Performance difference (or other benefits) between React function and class (as a class can do everything a function can!)
 - React Hooks (Feb 2019 v16.8) - why introduced, what's the use case, whats the different mindset? https://github.com/stefanolepera/react-hooks-playground
 - Render/Return JSX curly brackets {} can include any JS. Why not call a function like addNumber() rather then ?referencing addNumber? How to pass parameters across etc.
