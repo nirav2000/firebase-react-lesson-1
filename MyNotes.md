@@ -1,5 +1,5 @@
 # Week 1 of 4 - 270120: #
-- Presentation: [Firebase and Web - Lesson 1](https://docs.google.com/presentation/d/1qTWzDzPWebHGzehsDGVwbjIDUcGxNELm7DrzB5HnbDs/edit#slide=id.g76a2e46570_0_4}
+- Presentation: [Firebase and Web - Lesson 1](https://docs.google.com/presentation/d/1qTWzDzPWebHGzehsDGVwbjIDUcGxNELm7DrzB5HnbDs/edit#slide=id.g76a2e46570_0_4)
 - Code: https://github.com/nirav2000/firebase-react-lesson-1
 - Meetup: https://www.meetup.com/gdgcloud/events/267937802/
 
