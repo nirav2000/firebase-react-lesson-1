@@ -1,5 +1,5 @@
 # Week 1 of 4 - 270120: #
-- Presentation: [Firebase and Web - Lesson 1]{https://docs.google.com/presentation/d/1qTWzDzPWebHGzehsDGVwbjIDUcGxNELm7DrzB5HnbDs/edit#slide=id.g76a2e46570_0_4}
+- Presentation: [Firebase and Web - Lesson 1](https://docs.google.com/presentation/d/1qTWzDzPWebHGzehsDGVwbjIDUcGxNELm7DrzB5HnbDs/edit#slide=id.g76a2e46570_0_4}
 - Code: https://github.com/nirav2000/firebase-react-lesson-1
 - Meetup: https://www.meetup.com/gdgcloud/events/267937802/
 
@@ -16,7 +16,7 @@
 ##
 - Make a local copy  / ideally branch of the code (latter better as you can see the changes made and reverse more easily amongst other things?... why GIT?)
 - See Presentation of and simple overview of React Components, with 3 problems and solutions.
-- Use CreateReact App? - bloated (#number of packages downloaded) but easy and quick to develop a react app
+- Use [CreateReact App](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)? - bloated (#number of packages downloaded) but easy and quick to develop a react app
 - NPM Install #to install the project.json dependencies
 - NPM Start #to run a webserver with real time updates on code changes
 
