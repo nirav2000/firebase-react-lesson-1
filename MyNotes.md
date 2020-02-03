@@ -1,4 +1,5 @@
 # Week 1 of 4 - 27/01/2020: #
+Drive>ToDO>Developing>React ToDO
 - Presentation: [Firebase and Web - Lesson 1](https://docs.google.com/presentation/d/1qTWzDzPWebHGzehsDGVwbjIDUcGxNELm7DrzB5HnbDs/edit#slide=id.g76a2e46570_0_4)
 - Code: https://github.com/nirav2000/firebase-react-lesson-1
 - Meetup: https://www.meetup.com/gdgcloud/events/267937802/
@@ -32,3 +33,5 @@
 Primatives
 
 
+# Week 2 of 4 - 03/02/2020: #
+- Presentation: [Firebase and Web - Lesson 1](https://docs.google.com/presentation/d/1SH-_Wm9wdwfUoJjIFQiyJYyOOXWE3LlFuNVZM2add58/edit#slide=id.g6434350865_1_233)
