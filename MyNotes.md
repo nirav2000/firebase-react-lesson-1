@@ -35,10 +35,10 @@ Primatives
 
 # Week 2 of 4 - 03/02/2020: #
 - Presentation: [Firebase and Web - Lesson 2/4](https://docs.google.com/presentation/d/1SH-_Wm9wdwfUoJjIFQiyJYyOOXWE3LlFuNVZM2add58/edit#slide=id.g6434350865_1_233)
-- Code: [GDGcloudLondon] (https://github.com/gdgcloudlondon/firebase-react-lesson-2) (https://github.com/nirav2000/firebase-react-lesson-2)
+- Code: [GDGcloudLondon](https://github.com/gdgcloudlondon/firebase-react-lesson-2) (https://github.com/nirav2000/firebase-react-lesson-2)
 
 
 
 # Week 3 of 4 - 10/02/2020: #
 - Presentation: [Firebase and Web - Lesson 3/4] ()
-- Code: [GDGcloudLondon] (https://github.com/gdgcloudlondon/firebase-react-lesson-3) (https://github.com/nirav2000/firebase-react-lesson-3)
+- Code: [GDGcloudLondon](https://github.com/gdgcloudlondon/firebase-react-lesson-3) (https://github.com/nirav2000/firebase-react-lesson-3)
