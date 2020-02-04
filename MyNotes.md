@@ -1,8 +1,9 @@
 # Week 1 of 4 - 27/01/2020: #
 Drive>ToDO>Developing>React ToDO
 - Presentation: [Firebase and Web - Lesson 1/4](https://docs.google.com/presentation/d/1qTWzDzPWebHGzehsDGVwbjIDUcGxNELm7DrzB5HnbDs/edit#slide=id.g76a2e46570_0_4)
-- Code: [GDGcloudLondon](https://github.com/gdgcloudlondon/firebase-react-lesson-1) firked to nirave 2000 ... (https://github.com/nirav2000/firebase-react-lesson-1)
+- Code: [GDGcloudLondon](https://github.com/gdgcloudlondon/firebase-react-lesson-1) forked to nirav2000 ... (https://github.com/nirav2000/firebase-react-lesson-1)
 - Meetup: https://www.meetup.com/gdgcloud/events/267937802/
+- Slack: #firebase-web-crash-course (https://gdgcloud.slack.com/archives/CNVT40V8A)
 
 ## Requirements ##
 - VS Code Editor
@@ -38,8 +39,19 @@ Primatives
 - Code: [GDGcloudLondon](https://github.com/gdgcloudlondon/firebase-react-lesson-2) (https://github.com/nirav2000/firebase-react-lesson-2)
 - [React Basics](https://github.com/stefanolepera/react-basic)
 
+## Steps ##
+- setup Firebase
+    - using NoSql **Realtime DB**
+- get Firebase SDK Snippet config data from Project Settings and place into services/Firebase.js
 
+## Q: ##
+- onClick = function or function(). A: () calls the function on load, without () you are assigning a reference to that function to the onclick event handler, or onClick is an alisas for the function, so it only gets called when onclick gets called.
+
+## Thoughts: ##
+- Code was gone through pretty fast.  Need to review code to understand all parts.
+- Kodiri.com Ankita Singhal ~~Anitha Dharaneedharan~~ & chineese
 
 # Week 3 of 4 - 10/02/2020: #
 - Presentation: [Firebase and Web - Lesson 3/4] ()
 - Code: [GDGcloudLondon](https://github.com/gdgcloudlondon/firebase-react-lesson-3) (https://github.com/nirav2000/firebase-react-lesson-3)
+
