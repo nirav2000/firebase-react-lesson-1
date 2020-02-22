@@ -52,6 +52,23 @@ Primatives
 - Kodiri.com Ankita Singhal ~~Anitha Dharaneedharan~~ & chineese
 
 # Week 3 of 4 - 10/02/2020: #
-- Presentation: [Firebase and Web - Lesson 3/4] ()
+- Presentation: [Firebase and Web - Lesson 3/4] (https://docs.google.com/presentation/d/1xNs5SXcUsd41vzCAIs5aOPP2lMqu1oxNtthlySmGv0w/edit#slide=id.g70ba2bbdf0_0_0)
 - Code: [GDGcloudLondon](https://github.com/gdgcloudlondon/firebase-react-lesson-3) (https://github.com/nirav2000/firebase-react-lesson-3)
 
+- PROMISES V CALLBACKS, whats the difference?
+- database design
+- recommended course: https://www.udemy.com/course/react-the-complete-guide-incl-redux/ and any course by Maximilian Schwarzmüller
+
+# Wekk 4 of 4 - 17/02/2020: #
+- Presentation: [Firebase and Web - Lesson 4/4] (https://docs.google.com/presentation/d/1s_DwO29gg8nwS8f-d-UKvtYUXJZyxiBAaYSoxIYyp2o/edit#slide=id.g6434350865_1_233)
+- Code: use week 3 solution
+
+- Install Firebase CLI & use to setup hosting and deployment - one time only, using:
+    - 'npm install -g firebase-tools'
+    - 'firebase login' - to login to firebase so CLI 
+    - 'firebase init' - get your project and create the firebasesrc and firebase.json files based on your selections
+- Deploy using: 'firebase delpoy' - deploys the app, provides the usl's.  Use <CTRL> click on the link to opennpm node
+
+- package.json you can set up a script so it runs: 'npm run build && firbase init' i.e. build and deploy with one command
+
+- had error with firbase cli tools where when trying to select (in windows enquirer) with the arrow key it jumps an option. Turned out it was an issue with node, uopdateed to latest - hopefully that would of fix it.
