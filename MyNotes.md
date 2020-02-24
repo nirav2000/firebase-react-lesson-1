@@ -59,7 +59,7 @@ Primatives
 - database design
 - recommended course: https://www.udemy.com/course/react-the-complete-guide-incl-redux/ and any course by Maximilian Schwarzmüller
 
-# Wekk 4 of 4 - 17/02/2020: #
+# Week 4 of 4 - 17/02/2020: #
 - Presentation: [Firebase and Web - Lesson 4/4] (https://docs.google.com/presentation/d/1s_DwO29gg8nwS8f-d-UKvtYUXJZyxiBAaYSoxIYyp2o/edit#slide=id.g6434350865_1_233)
 - Code: use week 3 solution
 
@@ -72,3 +72,16 @@ Primatives
 - package.json you can set up a script so it runs: 'npm run build && firbase init' i.e. build and deploy with one command
 
 - had error with firbase cli tools where when trying to select (in windows enquirer) with the arrow key it jumps an option. Turned out it was an issue with node, uopdateed to latest - hopefully that would of fix it.
+- alternative fix was to create the firebasesrc and firebase.json file manually.
+
+
+# Other #
+1. Tried to add Firebase Performance SDK - to monitor app performance
+    - error: TypeError: firebase_app__WEBPACK_IMPORTED_MODULE_0___default.a.performance is not a function
+    - firebase.js: > 23 | var perf = firebase.performance();
+    - Solution: load the performance monitoring via themodule-bundler option instead of the CDN https://firebase.google.com/docs/perf-mon/get-started-web#using-module-bundler, as Performance needs to be loaded after the firebase app library
+    - Pref variable throws error - that maybe becaue Im not using some features, will try removing after dashboard data refresh to see if it works
+
+
+# ToDO #
+1. 
